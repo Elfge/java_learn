@@ -65,3 +65,12 @@ class lower {
         }
     }
 }
+class massage {
+    public static void main(String[] args) {
+        Scanner input =new Scanner(System.in);
+        System.out.println("姓名：朱国栋");
+        System.out.println("年龄："+18);
+        System.out.println("性别="+'男');
+        System.out.println("婚姻状况="+false);
+    }
+}
