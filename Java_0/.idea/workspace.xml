@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e1fb58d-ed85-4680-9bc1-7632e390cd6d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XFmrUt3bMwgtuPWPpdbUm3eVOM" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elfge.java.homework.Ex1" />
+      <module name="day_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elfge.java.homework.Exa" />
+      <module name="day_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="day_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elfge.java.text.Test" />
+      <module name="day_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elfge.java.text.Text01" />
+      <module name="day_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Elfge.java.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e1fb58d-ed85-4680-9bc1-7632e390cd6d" name="Changes" comment="" />
+      <created>1698233401323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698233401323</updated>
+      <workItem from="1698233402269" duration="2202000" />
+      <workItem from="1698307948358" duration="4907000" />
+      <workItem from="1698764422469" duration="1111000" />
+      <workItem from="1699119750062" duration="1474000" />
+      <workItem from="1699153819162" duration="76000" />
+      <workItem from="1699153973951" duration="50000" />
+      <workItem from="1699172710038" duration="5890000" />
+      <workItem from="1699409468499" duration="1664000" />
+      <workItem from="1699456780065" duration="1524000" />
+      <workItem from="1699664809161" duration="237000" />
+      <workItem from="1700016431144" duration="55000" />
+      <workItem from="1700019273841" duration="48000" />
+      <workItem from="1700060333053" duration="170000" />
+      <workItem from="1700060652125" duration="176000" />
+      <workItem from="1700309192587" duration="416000" />
+      <workItem from="1700309954480" duration="5073000" />
+      <workItem from="1700619007991" duration="2667000" />
+      <workItem from="1700646135336" duration="2924000" />
+      <workItem from="1700649436986" duration="2085000" />
+      <workItem from="1701571171245" duration="5157000" />
+      <workItem from="1701924583636" duration="1072000" />
+      <workItem from="1702089725780" duration="857000" />
+      <workItem from="1702210065263" duration="786000" />
+      <workItem from="1702712745084" duration="1177000" />
+      <workItem from="1703075049398" duration="2990000" />
+      <workItem from="1703080946502" duration="342000" />
+      <workItem from="1703081329487" duration="965000" />
+      <workItem from="1704201288957" duration="98000" />
+      <workItem from="1704552599969" duration="9000" />
+      <workItem from="1707965597529" duration="11000" />
+      <workItem from="1707966996667" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day_01/src/Main.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day_01/src/Elfge/java/text/Text01.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
